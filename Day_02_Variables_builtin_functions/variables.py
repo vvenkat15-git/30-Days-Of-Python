@@ -30,3 +30,4 @@ print("person Information:", person_info)
 first_name, last_name, country, age, is_married = 'venkat', 'vanukuru', 'Inida','Hyderabad','25','Fasle'
 
 print(first_name,last_name, country, age, is_married)
+'-----------------------------------------------------------------------------'
